@@ -1,4 +1,4 @@
-# Chuck Norris Jokes Web-Scraper
+# [Chuck Norris Jokes Web-Scraper](https://edrdmolina.github.io/Chuck-Norris-Jokes/)
 
 ### All jokes were scraped from: https://deadliestjokes.fandom.com/wiki/Chuck_Norris
 
@@ -12,4 +12,4 @@ Once all data was saved in the jokes.json file I set up an [Express JS API](http
 
 The purpose of doing this was to:
 1. Learn how to perform a web scrape.
-2. Use the data collected to create a [Chuck Norris Joke generator]().
+2. Use the data collected to create a [Chuck Norris Joke generator](https://edrdmolina.github.io/Chuck-Norris-Jokes/).
